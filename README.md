@@ -45,19 +45,19 @@ Deep learning models for analysing laparoscopic surgical performance.
 
 ## Selected Publications
 
-**Automated assessment of simulated laparoscopic surgical skill performance using deep learning**  
+**Automated assessment of simulated laparoscopic surgical skill performance using deep learning**  \
 Scientific Reports (2025)
 
-**Automated Assessment of Simulated Laparoscopic Surgical Performance using 3DCNN**
+**Automated Assessment of Simulated Laparoscopic Surgical Performance using 3DCNN** \
 IEEE Engineering in Medicine and Biology Society EMBS (2024)
 
-**Collaborative Care: Multi-Agent Systems in Healthcare**  
+**Collaborative Care: Multi-Agent Systems in Healthcare**  \
 Computers & Electronics in Medicine (2025)
 
-**Ethical considerations in the era of AI, automation, and surgical robots: there are plenty of lessons from the past**
+**Ethical considerations in the era of AI, automation, and surgical robots: there are plenty of lessons from the past** \
 Discover Artificial Intelligence (2024)
 
-**Exploring Virtual Reality as a Tool for Enhancing Anatomy Teaching**  
+**Exploring Virtual Reality as a Tool for Enhancing Anatomy Teaching**  \
 The Clinical Teacher (2025)
 
 ---
