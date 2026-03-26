@@ -4,8 +4,8 @@ Healthcare Simulation | Applied AI & Machine Learning | Medical Education
 
 ## 👤 About
 
+Researcher and simulation specialist with 25+ years’ experience across healthcare, training, simulation, and research.
 I work at the intersection of **artificial intelligence, healthcare simulation, and immersive learning technologies**.
-
 My work focuses on developing **AI-supported training systems** that model clinical communication, evaluate learner performance, and generate realistic simulation scenarios.
 
 ---
